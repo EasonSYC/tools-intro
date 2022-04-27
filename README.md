@@ -9,4 +9,4 @@ Introduction of Commonly-Used Tools
 3. Google Scholar
 4. AxGlyph
 5. AxMath
-6. GetDataDigitalizer & WebPlot Digitalizer
+6. GetData Graph Digitizer & WebPlot Digitizer
